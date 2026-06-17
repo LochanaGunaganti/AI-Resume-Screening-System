@@ -23,7 +23,6 @@ AI-Powered Resume Screening & Interview Preparation System is a full-stack appli
 ### Frontend
 
 * React.js
-* Axios
 * Vite
 * Tailwind CSS
 
@@ -82,12 +81,13 @@ mvn spring-boot:run
 
 ## Screenshots
 
-<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/7f40ccb4-f882-4a6a-99b2-2572c7f36ea0" />
-<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/c1dbc134-cc7a-48f3-84d3-b6a595833df6" />
-<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/b547f0b8-c2e8-4b54-91ce-db6a8ddc55c7" />
-<img width="1600" height="634" alt="image" src="https://github.com/user-attachments/assets/96a4302d-5f10-4619-92ab-75bf3b7352f7" />
-<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/858e7bf1-618e-4ccf-bde8-ce31eb7c788f" />
-<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/ad7bd6a6-bf3c-4451-b69f-f7854e0f4e50" />
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/7cba1294-9615-4adb-b0de-bbcae3ba6359" />
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/35ff1b5a-ab75-4bcb-bcca-785c5c272ca0" />
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/02571e9c-432e-4aa3-a731-79a90bee6ce7" />
+<img width="1600" height="634" alt="image" src="https://github.com/user-attachments/assets/c562a59b-f209-42c3-9020-d317691b2592" />
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/fd986358-fdd5-416b-b4cd-6752cd7dad73" />
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/6f50daa2-369a-48b2-8e21-47bef6709c51" />
+
 
 
 ## Future Enhancements
