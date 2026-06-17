@@ -1,0 +1,24 @@
+# Frontend
+node_modules/
+dist/
+
+# Backend
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-example.properties
+
+# OS
+.DS_Store
+Thumbs.db

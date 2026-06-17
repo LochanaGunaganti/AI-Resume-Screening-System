@@ -1,0 +1,113 @@
+Java
+Spring Boot
+Spring MVC
+Spring Security
+Spring Data JPA
+Hibernate
+JPA
+MySQL
+PostgreSQL
+MongoDB
+Redis
+Oracle
+SQL
+NoSQL
+REST API
+RESTful
+GraphQL
+gRPC
+Microservices
+Docker
+Kubernetes
+AWS
+Azure
+GCP
+Google Cloud
+React
+Angular
+Vue
+Node.js
+Express
+JavaScript
+TypeScript
+HTML
+CSS
+Tailwind
+Bootstrap
+Python
+Django
+Flask
+FastAPI
+Go
+Rust
+C++
+C#
+.NET
+PHP
+Laravel
+Ruby
+Rails
+Git
+GitHub
+GitLab
+Bitbucket
+CI/CD
+Jenkins
+GitHub Actions
+Linux
+Bash
+Shell
+Agile
+Scrum
+Jira
+Maven
+Gradle
+Kafka
+RabbitMQ
+Elasticsearch
+Terraform
+Ansible
+Prometheus
+Grafana
+JUnit
+Mockito
+Selenium
+Postman
+Swagger
+OpenAPI
+OAuth
+JWT
+SOAP
+XML
+JSON
+YAML
+Data Structures
+Algorithms
+DSA
+OOP
+Design Patterns
+System Design
+SOLID
+TDD
+BDD
+Multithreading
+Concurrency
+Hibernate
+JDBC
+Tomcat
+Nginx
+Apache
+Android
+iOS
+Flutter
+React Native
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Pandas
+NumPy
+Scikit-learn
+Power BI
+Tableau
+Excel
